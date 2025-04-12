@@ -76,8 +76,7 @@ Brands like Nike and Apple exemplify symbolic minimalism. By stripping logos to 
 
 *Figure 4. Evolution of Nike's logo throughout the years.*
 
-
-![apple](https://github.com/user-attachments/assets/19a8658f-5a4e-4b0b-adf3-ebc833791637)
+<img src="https://github.com/user-attachments/assets/19a8658f-5a4e-4b0b-adf3-ebc833791637" width="60%" />
 
 *Figure 5. Evolution of Apple's logo throughout the years.*
 
@@ -93,7 +92,7 @@ Typography transcends mere text representation; it embodies brand voice. Serif f
 
 Dynamic visual identities further challenge typographic norms. Variable fonts, such as Fit by David Ross, adapt width and weight responsively, maintaining structural integrity across devices, a necessity in multi-platform branding (LELIS et al., 2020). This flexibility mirrors Van Nes’s (2012) "Container" category, where typography remains constant while other elements mutate.
 
-![fit](https://github.com/user-attachments/assets/df494c1e-ef13-4278-a5f7-07dc53250273)
+<img src="https://github.com/user-attachments/assets/df494c1e-ef13-4278-a5f7-07dc53250273" width="60%" />
 
 *Figure 8. Fit by David Ross.*
 
