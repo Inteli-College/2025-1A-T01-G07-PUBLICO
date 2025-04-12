@@ -14,8 +14,6 @@ A narrative literature review anchors the discussion, while empirical investigat
 > “Without the aid of a computer, it would not be possible to materialize quite so faithfully an image that previously existed only in the artist's mind. This may sound paradoxical, but the machine, which is thought to be cold and inhuman, can help to realize what is most subjective, unattainable, and profound in a human being.”  
 > — *Vera Molnár, 1975.*
 
----
-
 **Keywords**: Generative Design; Branding; Dynamic Visual Identities; Visual Identity System.
 
 ## Introduction
@@ -130,7 +128,7 @@ The interplay of logo, typography, and color defines VIS efficacy. Dynamic brand
 ## Generative Design
 
 According to Philip Galanter,<br>
-```Generative [design] refers to any [design] practice where the [designer] uses a system, such as a set of natural language rules, a computer program, a machine, or other procedural invention, which is set into motion with some degree of autonomy contributing to or resulting in a completed work of [design]. (GALANTER, 2003)```
+> "Generative [design] refers to any [design] practice where the [designer] uses a system, such as a set of natural language rules, a computer program, a machine, or other procedural invention, which is set into motion with some degree of autonomy contributing to or resulting in a completed work of [design]." (GALANTER, 2003)
 
 Generative design consists of a creative practice that employ systems as essential tools for creation. Its central distinction lies in the intentional introduction of stochastic elements into the creative process, which generate unpredictable and diverse results within a set of rules (Figure 5). According to Galanter, generative systems operate in the zone of effective complexity, where order and disorder coexist to produce structured yet unpredictable patterns (GALANTER, 2003).
 
