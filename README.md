@@ -1,5 +1,22 @@
-# 2025-1A-T01-G07-PUBLICO
-Repository for group 07 of class T01 (2025/1A)
+# The Influence of Generative Design in the Creation of Dynamic Visual Identities
+
+**Gustavo Francisco Neto Pereira**  
+*Instituto de Tecnologia e Liderança - INTELI*  
+**Supervisor:** Prof. Dr. Sérgio Venâncio  
+
+---
+## Abstract
+
+This research examines the intersection of generative design and branding, with a focus on the dynamic construction of visual identities. Challenging the traditional perception of a visual identity as a static symbol, this study posits that a brand’s visual expression can evolve over time through algorithm-driven systems. The research is underpinned by robust theoretical frameworks drawn from branding, design systems, and computational creativity.
+
+A narrative literature review anchors the discussion, while empirical investigations, including semi-structured interviews with design professionals, practical experiments in logo generation (covering both reinterpretations of existing identities and the creation of novel designs), A/B testing, and focus groups, are employed to validate the hypothesis. These multi-method approaches not only illustrate how generative design strategies foster adaptability and innovation, but also elucidate their capacity to either reinforce or challenge conventional brand aesthetics and communication.
+
+> “Without the aid of a computer, it would not be possible to materialize quite so faithfully an image that previously existed only in the artist's mind. This may sound paradoxical, but the machine, which is thought to be cold and inhuman, can help to realize what is most subjective, unattainable, and profound in a human being.”  
+> — *Vera Molnár, 1975.*
+
+---
+
+**Keywords**: Generative Design; Branding; Dynamic Visual Identities; Visual Identity System.
 
 ## Introduction
 
@@ -165,6 +182,27 @@ Generative design transforms visual identities by replacing static logos with dy
 *Figure 18. Nordkyn logo variations.*
 
 ## Referências Bibliográficas
+
+LELIS, Catarina; LEITÃO, Sandra; MEALHA, Óscar; DUNNING, Ben. *Typography: The constant vector of dynamic logos*. Visual Communication, London, 2020.
+
+LELIS, Catarina. *Like a chameleon: The polychromatic virtue of dynamic brands*. Journal of Product & Brand Management, 2019.
+
+FEKETE, Balàzs. *Digital dynamics visual identities – prospects at the frontiers of marketing and design*. Budapest Management Review, 2022.
+
+VIEIRA, B. L.; BRUSCATO, L. M. *Parâmetros para a criação de sistemas generativos de identidade visual*. Estudos em Design, Rio de Janeiro, 2023.
+
+SCHROEDER, J. E. *The artist and the brand*. European Journal of Marketing. 2005.
+
+SCHROEDER, J. E. *Corporate branding in perspective: A typology*. European Journal of Marketing, 2017.
+
+AVIS, M.; HENDERSON, I. L. *A solution to the problem of brand definition*. European Journal of Marketing, 2022.
+
+VAN NES, Irene. *Dynamic Identities: How to Create a Living Brand*. Amsterdam: BIS Publishers, 2012.
+
+WHEELER, Alina. *Designing Brand Identity: An Essential Guide for the Whole Branding Team*. 5th ed. Hoboken: Wiley, 2017.
+
+DANG, Ly. *Visual Branding: A Guide to Designing Visual Identity*. Vaasan ammattikorkeakoulu University of Applied Sciences, Vaasa, 2018.
+
 BAILEY, Jason. *Why Love Generative Art*. Artnome, 8 ago. 2018. Disponível em: https://www.artnome.com/news/2018/8/8/why-love-generative-art. Acesso em: 28/03/2025.
 
 GALANTER, Philip. *What is Generative Art? Complexity Theory as a Context for Art Theory*. Proceedings of the Generative Art Conference, 2003.
@@ -174,6 +212,8 @@ STÄDEL MUSEUM. *Figure*. Disponível em: https://sammlung.staedelmuseum.de/en/w
 MUSEO REINA SOFIA. *Cuatro Caras*. Disponível em: https://www.museoreinasofia.es/en/collection/artwork/cuatro-caras-four-faces. Acesso em: 28/03/2025.
 
 KRAKOW WITKIN GALLERY. *Wall Drawing #815*. Disponível em: https://www.krakowwitkingallery.com/artwork/wall-drawing-815/. Acesso em: 28/03/2025.
+
+THE MUSEUM OF MODERN ART. *Andy Warhol. Campbell's Soup Cans*, 1962. Disponível em: https://www.moma.org/collection/works/79809. Acesso em: 12/03/2025 
 
 GUIDA, F. E. (2014). *Generative Visual Identities. New Scenarios in Corporate Identity*. Proceedings of the XVII Generative Art Conference - GA2014.
 
