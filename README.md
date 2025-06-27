@@ -178,7 +178,75 @@ Generative design transforms visual identities by replacing static logos with dy
 
 *Figure 18. Nordkyn logo variations.*
 
-## Referências Bibliográficas
+### **Evolving the Project: Practical Experiments**
+
+To transition from theoretical understanding to practical application, a foundational survey of existing works in generative design was conducted, with a specific focus on Generative Design and Dynamic Visual Identities (DVI). The primary outcome of this research is the **Catalog of References**, a curated database of academic studies, artistic works, and industrial projects. The catalog was created to deconstruct how generative techniques are applied in the real world, analyzing each entry by the core "Technique of Interest" of **Morphology** (the generation of form) and **Chromatics** (the use of color). This process of cataloging influential projects and corporate initiatives established the necessary theoretical and inspirational foundation for the hands-on experiments that followed.
+
+### **Experiment 1: Studies on Chromatics ("Bloom")**
+
+The first practical experiment, "Bloom," focused on isolating and exploring the application of color within a generative system.
+
+> **Description**
+> This experiment investigates the application of colors in generative design. Inspired by the concept of Maeda's "Florada", the project explores how a predefined color palette can generate a multitude of visual arrangements through user interaction. The system, developed in Processing, allows a composition of flowers to emerge with each click, where each element randomly receives different shapes and a color from the established palette. The objective is to observe and analyze the chromatic richness, emerging harmonies, and contrasts, and how controlled randomness in color selection can contribute to a lively and constantly transforming visual piece, while remaining cohesive through the palette.
+
+**Results and Discussion**
+The "Bloom" system sought to demonstrate that a limited, fixed color palette can produce a vast range of unique visual outputs through generative rules. The use of transparency proved critical, as overlapping shapes created new, emergent secondary colors, adding a layer of visual depth. This experiment seeks to serve as a proof-of-concept for how a brand's color system can be transformed from a static guideline into a dynamic, living asset.
+
+**Demo**
+
+![bloom-gif mp4](https://github.com/user-attachments/assets/54f2ac5d-32a7-4509-8722-096841934bfe)
+
+### **Experiment 2: Studies on Morphology ("twenty one bars")**
+
+The second experiment, "twenty one bars," shifted focus to the study of morphology (form), creating a system where visual shapes were directly generated and modulated by an external data source, in this case, audio.
+
+> **Description**
+> This practical study investigates the field of generative morphology, focusing on the creation of dynamic forms that respond in real-time to audio data. The project is directly inspired by Patrik Huebner's "Philharmonie Luxembourg" work, seeking to emulate its approach of creating organic, fluid visuals that serve as a direct translation of the soundscape. To unite this study with the previous exploration of colors, the system uses the discography of the band Twenty One Pilots as a basis for applying specific color palettes extracted from their respective album's visual identities.
+
+**Results and Analysis**
+This study intended to create a symbiosis where dynamic, sound-reactive form provides momentary expression, while a static, thematic color palette ensures brand recognition. The project seeks to demonstrate the potential for a dynamic morphology to move branding beyond static logos towards more experiential, behavior-driven systems where a brand's identity can react to its environment.
+
+**Demo**
+
+Clancy Album
+
+https://github.com/user-attachments/assets/8a674f84-db82-40ea-91c7-58a6d348613b
+
+Scaled and Icy Album
+
+https://github.com/user-attachments/assets/fca4a91b-c16f-4630-9e18-bdb79151fe02
+
+Trench Album
+
+https://github.com/user-attachments/assets/26ca3f08-d4f0-4f3a-bfd9-9741b9cdd60b
+
+Blurryface Album
+
+https://github.com/user-attachments/assets/3c57a987-a989-4156-9b83-186b77d5b4c6
+
+Vessel Album
+
+https://github.com/user-attachments/assets/f766fc40-6b77-46ec-aef6-7b091f59d1e9
+
+### **Next Steps**
+
+With the research and practical experimentation phase now complete, the next steps of this study will focus on leveraging these insights for more advanced applications and gathering external perspectives. The subsequent phase will concentrate on authorial creation and on integrating theoretical research with professional applications.
+
+**Semi-Structured Interviews with Industry Professionals**
+To bridge the gap between academic theory and industry practice, semi-structured interviews will be conducted with professionals who have established expertise in applying generative design within the branding field. These conversations will be guided by a prepared script, allowing for a focused discussion, but will also maintain flexibility to follow the natural flow of the conversation. The primary goal is to gather valuable insights into their perceptions, challenges, and experiences regarding the application of generative design in branding contexts. Their practical perspectives will be invaluable in understanding the real-world implications and opportunities of this technology.
+
+**Preparation for Authorial Experiments Inspired by Real-World Brands**
+The next significant phase of this study involves preparing for authorial experiments that apply the developed techniques to conceptual branding scenarios. These explorations will be inspired by two distinct brands, allowing for the application of theoretical knowledge in simulated real-world contexts.
+
+* **Piet**: The Brazilian brand Piet already has a strong connection with technology. This makes it an ideal case study for exploring how generative variations can be applied to an existing, well-utilized brand mark. A conceptual project will investigate how dynamism can be integrated into an established identity without compromising its core recognition.
+
+* **Basketcase**: The brand is heavily oriented towards bold, statement-making prints and graphics. The brand's aesthetic provides a compelling opportunity to explore the potential of generative design in creating a vast and varied library of on-brand visual assets. The experiment with Basketcase will focus on generating a series of unique, algorithmically-driven variations of a core graphic element or logo.
+
+These next steps are designed to solidify the research by translating experimental findings into more sophisticated, application-oriented projects, thereby fostering a deeper dialogue between generative design and the evolving landscape of dynamic visual identities.
+
+For a detailed look at the project's experimental development and research materials, all code and artifacts are publicly accessible in this repository.
+
+## Bibliographic References
 
 LELIS, Catarina; LEITÃO, Sandra; MEALHA, Óscar; DUNNING, Ben. *Typography: The constant vector of dynamic logos*. Visual Communication, London, 2020.
 
